@@ -76,7 +76,7 @@ Mimo věcnou působnost ZOS spadají vztahy mezi podnikateli navzájem (B2B), vz
 >
 > *- a) spotřebitelem fyzická osoba, která nejedná v rámci své podnikatelské činnosti nebo v rámci samostatného výkonu svého povolání,*
 >
-> *- b) prodávajícím podnikatel, který spotřebiteli prodává výrobky nebo poskytuje služby,*
+> *- b) prodávajícím podnikatel,4) který spotřebiteli prodává výrobky nebo poskytuje služby,*
 >
 > *- c) výrobcem podnikatel, který zhotovil výrobek anebo jeho součást, vytěžil prvotní surovinu nebo ji dále zpracoval, anebo který se za výrobce označil,*
 >
@@ -88,7 +88,31 @@ Mimo věcnou působnost ZOS spadají vztahy mezi podnikateli navzájem (B2B), vz
 >
 > *- g) službou jakákoliv podnikatelská činnost, včetně práv a závazků s touto činností souvisejících,*
 >
-> *(...) — h) obuví, i) hlavními částmi obuvi, j) usní, k) povrstvenou usní, l) křišťálovým sklem, m) výrobkem porušujícím některá práva duševního vlastnictví (padělek, nedovolená napodobenina, výrobek porušující patent/užitný vzor/dodatkové ochranné osvědčení, výrobek porušující práva k označení původu/zeměpisnému označení),*
+> *- h) obuví výrobek určený k ochraně nebo pokrytí nohou, který má připevněnou podešev, včetně hlavních částí takové obuvi, i když jsou prodávány samostatně,*
+>
+> *- i) hlavními částmi obuvi součásti nebo dílce používané k výrobě obuvi, které tvoří:*
+>
+> *- 1. vrchní část obuvi jako sestava součástí vnější části svršku, která je připevněna k podešvi nebo mezipodešvi,*
+>
+> *- 2. stélka a podšívka, které jsou sestavou stélky a podšívky svršku, tvořící vnitřní část obuvi,*
+>
+> *- 3. podešev jako spodní část obuvi, připevněná ke svršku, která je vystavena oděru při používání obuvi,*
+>
+> *- j) usní vyčiněná kůže, jejíž vláknitá struktura zůstala zachována a u níž tloušťka konečné povrchové úpravy je menší než 0,15 mm včetně,*
+>
+> *- k) povrstvenou usní useň s nánosem vrstvy, která je menší než třetina celkové tloušťky usně, ale je větší než 0,15 mm,*
+>
+> *- l) křišťálovým sklem sklo, které obsahuje oxid olovnatý, oxid barnatý, oxid zinečnatý a oxid draselný samostatně nebo v kombinaci, a to v množství stanoveném prováděcím právním předpisem. Prováděcí právní předpis upraví i další technické podrobnosti,*
+>
+> *- m) výrobkem porušujícím některá práva duševního vlastnictví se rozumí*
+>
+> *- 1. padělek, jímž je výrobek, včetně jeho obalu, na němž je bez souhlasu majitele ochranné známky umístěno označení stejné nebo zaměnitelné s ochrannou známkou, porušující práva majitele ochranné známky podle zvláštního právního předpisu,4b) dále veškeré věci nesoucí takové označení (značky, loga, etikety, nálepky, prospekty, návody k použití, doklady o záruce apod.), a to i tehdy, jsou-li uváděny samostatně, a samostatné obaly, na nichž je umístěno takové označení,*
+>
+> *- 2. nedovolená napodobenina, jíž je výrobek, který je rozmnoženinou nebo zahrnuje rozmnoženinu vyrobenou bez souhlasu majitele autorských práv nebo práv souvisejících s právem autorským nebo bez souhlasu majitele práv k průmyslovému vzoru, jestliže pořízení rozmnoženiny porušuje tato práva podle zvláštních právních předpisů,4c)*
+>
+> *- 3. výrobek, porušující práva majitele patentu4d) nebo užitného vzoru4e) nebo práva majitele dodatkového ochranného osvědčení pro léčiva a pro přípravky na ochranu rostlin podle zvláštního právního předpisu,4d)*
+>
+> *- 4. výrobek, porušující práva toho, jemuž svědčí ochrana zapsaného označení původu nebo zeměpisného označení,4f)*
 >
 > *- n) obchodní praktikou způsob chování prodávajícího spočívající v konání, opomenutí, prohlášení, obchodním sdělení včetně reklamy a uvedení na trh související s propagací, prodejem nebo dodáním výrobku nebo služby spotřebiteli,*
 >
@@ -104,15 +128,15 @@ Mimo věcnou působnost ZOS spadají vztahy mezi podnikateli navzájem (B2B), vz
 >
 > *- t) přeshraničním sporem spor z kupní smlouvy nebo ze smlouvy o poskytování služeb, jestliže má spotřebitel v době, kdy si objednává výrobek nebo službu, bydliště v jiném členském státě Evropské unie nebo státě tvořícím Evropský hospodářský prostor, než je stát, v němž je usazen prodávající,*
 >
-> *- u) spotřebitelskou soutěží (...) při níž je podmínkou účasti zakoupení určitého výrobku či služby (...),*
+> *- u) spotřebitelskou soutěží soutěž, anketa nebo jiná akce o ceny pořádaná pro spotřebitele v přímé souvislosti s propagací, nabídkou nebo prodejem výrobku či služby prodávajícího, při níž se prodávající či jím pověřená osoba zavazuje vyplatit účastníkům určeným náhodným výběrem peněžité či nepeněžité ceny a při kterých je podmínkou účasti zakoupení určitého výrobku či služby a doložení tohoto nákupu prodávajícímu nebo uzavření smluvního vztahu s prodávajícím výrobku, nebo služby či účast spotřebitele na marketingové akci prodávajícího, a to i nepřímo prostřednictvím jiné osoby,*
 >
-> *- v) zástupnou žalobou hromadná žaloba (...) nebo žaloba na ochranu kolektivních zájmů spotřebitelů (...).*
+> *- v) zástupnou žalobou hromadná žaloba a návrh na nařízení předběžného opatření podle zákona o hromadném občanském řízení soudním, žaloba na ochranu kolektivních zájmů spotřebitelů podle občanského soudního řádu a jiný obdobný návrh na zahájení řízení nebo na nařízení předběžného opatření podaný v jiném členském státě Evropské unie nebo v jiném státě, který je smluvní stranou Dohody o Evropském hospodářském prostoru, v zájmu skupiny spotřebitelů právnickou osobou k tomu určenou tímto státem, vystupuje-li tato právnická osoba v řízení jako žalobce.*
 >
 > *(2) Pro účely tohoto zákona se dále rozumí*
 >
-> *- a) pořadím relativní důležitost připisovaná výrobkům a službám, jak je prodávající představuje, uspořádává nebo oznamuje, (...),*
+> *- a) pořadím relativní důležitost připisovaná výrobkům a službám, jak je prodávající představuje, uspořádává nebo oznamuje, bez ohledu na technologické prostředky používané pro představení, uspořádání nebo oznámení,*
 >
-> *- b) on-line tržištěm služba umožňující spotřebiteli uzavírat distančním způsobem smlouvu s prodávajícím nebo jinou osobou za využití softwaru (...) provozovaného jiným podnikatelem, než je prodávající, nebo jeho jménem,*
+> *- b) on-line tržištěm služba umožňující spotřebiteli uzavírat distančním způsobem smlouvu s prodávajícím nebo jinou osobou za využití softwaru zahrnujícího internetovou stránku, část internetové stránky nebo aplikaci, provozovaného jiným podnikatelem, než je prodávající, nebo jeho jménem,*
 >
 > *- c) poskytovatelem on-line tržiště podnikatel umožňující spotřebiteli využití on-line tržiště.*
 >
@@ -400,11 +424,11 @@ Odst. 3 obsahuje **typizované klamavé praktiky** převzaté z čl. 6 odst. 2 U
 >
 > *(3) Nejsou-li patrné ze souvislostí, považují se v případě nabídky ke koupi za podstatné tyto informace:*
 >
-> *- a) hlavní znaky výrobku nebo služby (...),*
+> *- a) hlavní znaky výrobku nebo služby v rozsahu odpovídajícím danému sdělovacímu prostředku, jakož i výrobku nebo službě,*
 >
-> *- b) adresa a totožnost prodávajícího (...),*
+> *- b) adresa a totožnost prodávajícího nebo osoby, která jedná jeho jménem nebo na jeho účet,*
 >
-> *- c) cena včetně daní, poplatků a jiných obdobných peněžitých plnění, nebo (...) způsob jejího výpočtu, a případně i veškeré další platby za dopravu nebo dodání (...),*
+> *- c) cena včetně daní, poplatků a jiných obdobných peněžitých plnění, nebo pokud z povahy výrobku nebo služby vyplývá, že cenu nelze rozumně stanovit předem, způsob jejího výpočtu, a případně i veškeré další platby za dopravu nebo dodání, nebo pokud tyto platby nelze rozumně stanovit předem, skutečnost, že k ceně mohou být účtovány takové další platby,*
 >
 > *- d) ujednání o platebních podmínkách, dodání a plnění, pokud se odchylují od požadavků odborné péče,*
 >
@@ -412,11 +436,11 @@ Odst. 3 obsahuje **typizované klamavé praktiky** převzaté z čl. 6 odst. 2 U
 >
 > *- f) u výrobku nebo služby nabízených na on-line tržištích také informace podle § 11b písm. b).*
 >
-> *(4) Poskytuje-li poskytovatel on-line tržiště službu internetového vyhledávání (...), považují se za podstatné také informace podle § 11b písm. a). (...)*
+> *(4) Poskytuje-li poskytovatel on-line tržiště službu internetového vyhledávání, která na základě dotazu spotřebitele v podobě klíčového slova, sousloví nebo jiného zadání umožňuje vyhledat výrobky a služby nabízené různými prodávajícími nebo jinými osobami, považují se za podstatné také informace podle § 11b písm. a). To neplatí, poskytuje-li tuto službu poskytovatel internetového vyhledávače podle čl. 2 bodu 6 nařízení Evropského parlamentu a Rady (EU) 2019/115050).*
 >
-> *(5) Poskytuje-li prodávající přístup k hodnocení výrobků nebo služeb provedenému jiným spotřebitelem (dále jen „spotřebitelská recenze"), za podstatnou informaci se považuje také informace o tom, zda a jak prodávající zajišťuje, aby zveřejněná spotřebitelská recenze pocházela od spotřebitele, který výrobek nebo službu skutečně použil nebo si je zakoupil.*
+> *(5) Poskytuje-li prodávající přístup k hodnocení výrobků nebo služeb provedenému jiným spotřebitelem (dále jen „spotřebitelská recenze“), za podstatnou informaci se považuje také informace o tom, zda a jak prodávající zajišťuje, aby zveřejněná spotřebitelská recenze pocházela od spotřebitele, který výrobek nebo službu skutečně použil nebo si je zakoupil.*
 >
-> *(6) Informace, jejichž uvedení je povinné podle právních předpisů provádějících právo Evropské unie (...) se považují za podstatné v rozsahu stanoveném právem Evropské unie.*
+> *(6) Informace, jejichž uvedení je povinné podle právních předpisů provádějících právo Evropské unie6b) a přímo použitelných předpisů Evropské unie51), které se týkají obchodních sdělení, včetně reklamy nebo uvádění na trh, se považují za podstatné v rozsahu stanoveném právem Evropské unie.*
 >
 > *(7) Pokud sdělovací prostředek, jímž se obchodní praktika šíří, klade omezení na prostor a čas, je třeba při rozhodování o tom, zda došlo k opomenutí informací, vzít v úvahu tato omezení i veškerá opatření, která prodávající přijal k zajištění přístupu spotřebitelů k informacím jinými prostředky.*
 
@@ -674,9 +698,9 @@ Speciální zákaz reagující na zneužívání humanitárních zásilek (typic
 
 > **§ 10a**
 >
-> *(1) Prodávající musí zajistit, aby jím prodávaná obuv byla přímo viditelně a srozumitelně označena údaji o materiálech použitých v jejích hlavních částech (...).*
+> *(1) Prodávající musí zajistit, aby jím prodávaná obuv byla přímo viditelně a srozumitelně označena údaji o materiálech použitých v jejích hlavních částech s výjimkou případů, které podle prováděcího právního předpisu označování nepodléhají.*
 >
-> *(2) Výrobce nebo jeho zplnomocněný zástupce odpovídá za označení materiálů použitých v hlavních částech obuvi (...) a za přesnost informací (...). Tyto údaje je povinen poskytnout dodavateli, jakož i prodávajícímu. (...)*
+> *(2) Výrobce nebo jeho zplnomocněný zástupce9b) odpovídá za označení materiálů použitých v hlavních částech obuvi v souladu s prováděcím právním předpisem a za přesnost informací v označení obsažených. Tyto údaje je povinen poskytnout dodavateli, jakož i prodávajícímu. Pokud výrobce ani jeho zplnomocněný zástupce nemají sídlo v členském státě Evropské unie, přechází tato povinnost na osobu odpovědnou za první uvedení obuvi na trh Evropského společenství.*
 
 **Výklad:**
 
@@ -722,9 +746,9 @@ Specifická informační povinnost pro **e-commerce**, vážící se na čl. 8 o
 >
 > *V dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku na on-line tržišti, poskytovatel on-line tržiště poskytne spotřebiteli způsobem jasným, srozumitelným a vhodným pro použití prostředku komunikace na dálku*
 >
-> *- a) obecnou informaci o hlavních parametrech určujících pořadí nabídek předkládaných spotřebiteli a o jejich relativní váze oproti ostatním parametrům; (...),*
+> *- a) obecnou informaci o hlavních parametrech určujících pořadí nabídek předkládaných spotřebiteli a o jejich relativní váze oproti ostatním parametrům; tuto informaci zpřístupní v konkrétním oddílu on-line rozhraní tak, aby byla přímo a snadno dostupná z místa, na němž jsou učiněny nabídky, které jsou výsledkem vyhledávání na základě dotazu spotřebitele,*
 >
-> *- b) informaci, zda je třetí strana nabízející výrobek nebo službu prodávajícím nebo nikoliv (...),*
+> *- b) informaci, zda je třetí strana nabízející výrobek nebo službu prodávajícím nebo nikoliv, a to na základě prohlášení této třetí strany určeného poskytovateli on-line tržiště,*
 >
 > *- c) informaci, že se na smlouvu neuplatní práva spotřebitele vyplývající z předpisů Evropské unie na ochranu spotřebitele, není-li třetí strana nabízející výrobek nebo službu prodávajícím,*
 >
@@ -870,13 +894,13 @@ Cílem je posílit **dohledatelnost prodávajících** v tržištích (boj proti
 
 > **§ 16**
 >
-> *(1) Na žádost spotřebitele je prodávající povinen vydat doklad o zakoupení výrobku nebo o poskytnutí služby s uvedením data prodeje výrobku nebo poskytnutí služby, o jaký výrobek nebo o jakou službu se jedná a za jakou cenu byl výrobek prodán nebo služba poskytnuta, spolu s identifikačními údaji prodávajícího (...).*
+> *(1) Na žádost spotřebitele je prodávající povinen vydat doklad o zakoupení výrobku nebo o poskytnutí služby s uvedením data prodeje výrobku nebo poskytnutí služby, o jaký výrobek nebo o jakou službu se jedná a za jakou cenu byl výrobek prodán nebo služba poskytnuta, spolu s identifikačními údaji prodávajícího obsahujícími jméno a příjmení nebo název nebo obchodní firmu, případně název prodávajícího, jeho identifikační číslo osoby, pokud zvláštní právní předpis nestanoví jinak.*
 >
 > *(2) Při prodeji výrobků s následnou dodávkou musí doklad obsahovat také místo určení a datum dodávky.*
 >
 > *(3) Při prodeji použitých nebo upravovaných výrobků, výrobků s vadou nebo výrobků, jejichž užitné vlastnosti jsou jinak omezeny, musí být tyto skutečnosti v dokladu zřetelně vyznačeny.*
 >
-> *(4) Na žádost orgánů dozoru nebo Policie v mezích jejích oprávnění je prodávající povinen, jde-li o nákup použitého výrobku nebo výrobku bez dokladu o nabytí, přijímání tohoto výrobku do zástavy nebo zprostředkování nebo nákupu či přijetí do zástavy, předložit identifikační údaje podle zvláštního právního předpisu.*
+> *(4) Na žádost orgánů dozoru nebo Policie v mezích jejích oprávnění je prodávající povinen, jde-li o nákup použitého výrobku nebo výrobku bez dokladu o nabytí, přijímání tohoto výrobku do zástavy nebo zprostředkování nebo nákupu či přijetí do zástavy, předložit identifikační údaje podle zvláštního právního předpisu.12b)*
 
 **Výklad:**
 
@@ -888,15 +912,9 @@ Cílem je posílit **dohledatelnost prodávajících** v tržištích (boj proti
 
 ### § 17–18c — Drobné povinnosti
 
-> **§ 17** — *Vyžaduje-li to povaha výrobků, zejména s ohledem na hygienické podmínky prodeje a charakter použití, je prodávající povinen výrobky prodávat v hygienicky nezávadných obalech nebo je do takových obalů při prodeji zabalit (...).*
+> **§ 17**
 >
-> **§ 18** — *(1) Prodávající je povinen informovat spotřebitele o peněžní částce za výkup vratných zálohovaných obalů a tuto informaci na viditelném místě zpřístupnit. (2) O změně peněžní částky za vykupované vratné zálohované obaly nebo o ukončení výkupu (...) je prodávající povinen informovat spotřebitele po dobu nejméně 30 kalendářních dnů před dnem provedení změny (...).*
->
-> **§ 18a** — *(Křišťálové sklo) Výrobce nebo dovozce a prodávající nesmí používat názvy jednotlivých druhů křišťálového skla a jim přiřazené symboly (...) u těch výrobků, které nejsou tímto prováděcím právním předpisem blíže charakterizovány (...).*
->
-> **§ 18b** — *Neoprávněné používání ekoznačky se zakazuje.*
->
-> **§ 18c** — *Užívání ubytovacího zařízení s noclehem na více než 1 časový úsek nebo výhoda spojená s ubytováním, popřípadě včetně dopravy nebo jiných rekreačních služeb, nesmějí být uváděny na trh nebo prodávány spotřebiteli jako investice.*
+> Vyžaduje-li to povaha výrobků, zejména s ohledem na hygienické podmínky prodeje a charakter použití, je prodávající povinen výrobky prodávat v hygienicky nezávadných obalech nebo je do takových obalů při prodeji zabalit, při samoobslužném prodeji je povinen spotřebiteli poskytnout vhodný obalový materiál.
 
 **Výklad:**
 
@@ -964,13 +982,13 @@ Pro digitální obsah a služby digitálního obsahu (transpozice směrnice (EU)
 >
 > *(3) Oznámení podle odstavce 1 musí být učiněno nejpozději 10 pracovních dnů před konáním organizované akce.*
 >
-> *(4) Oznámení musí, kromě obecných náležitostí stanovených správním řádem, dále obsahovat:*
+> *(4) Oznámení musí, kromě obecných náležitostí stanovených správním řádem37), dále obsahovat:*
 >
 > *- a) adresu místa, kde se prodej výrobků, poskytování služeb, jejich propagace anebo jejich nabízení uskuteční,*
 >
 > *- b) datum konání organizované akce včetně jejího předpokládaného časového harmonogramu,*
 >
-> *- c) identifikaci výrobku nebo služby, jež budou v rámci organizované akce propagovány, nabízeny, prodávány nebo poskytovány, s uvedením ceny (...),*
+> *- c) identifikaci výrobku nebo služby, jež budou v rámci organizované akce propagovány, nabízeny, prodávány nebo poskytovány, s uvedením ceny, za kterou budou tyto výrobky či služby spotřebitelům na organizované akci nabízeny bez zohlednění případných slev individuálně sjednaných se spotřebitelem na organizované akci,*
 >
 > *- d) kopii pozvání k účasti na organizované akci.*
 
@@ -994,11 +1012,11 @@ Pro digitální obsah a služby digitálního obsahu (transpozice směrnice (EU)
 >
 > *- b) datum konání organizované akce včetně jejího předpokládaného časového harmonogramu,*
 >
-> *- c) identifikaci výrobku nebo služby (...) s uvedením ceny (...),*
+> *- c) identifikaci výrobku nebo služby, jež budou v rámci organizované akce propagovány, nabízeny, prodávány nebo poskytovány, s uvedením ceny, za kterou budou tyto výrobky či služby spotřebitelům na organizované akci skutečně nabízeny bez zohlednění případných slev individuálně sjednaných se spotřebitelem na organizované akci,*
 >
 > *- d) jméno, sídlo a identifikační číslo osoby, která pořádá organizovanou akci, jde-li o podnikající fyzickou osobu, nebo obchodní firmu, sídlo a identifikační číslo osoby, jde-li o právnickou osobu, a identifikační údaje jejich zástupce, je-li ustaven,*
 >
-> *- e) pokud je prodávající osobou odlišnou od osoby pořádající organizovanou akci, též jeho jméno, sídlo a identifikační číslo (...).*
+> *- e) pokud je prodávající osobou odlišnou od osoby pořádající organizovanou akci, též jeho jméno, sídlo a identifikační číslo, jde-li o podnikající fyzickou osobu, nebo obchodní firmu, sídlo a identifikační číslo, jde-li o právnickou osobu, a identifikační údaje jejího zástupce, je-li ustaven.*
 >
 > *(2) V případě, že organizovanou akci pořádá jiný podnikatel než prodávající, má povinnost uvést v pozvání k účasti na organizované akci informace podle odstavce 1 tento podnikatel.*
 
@@ -1164,27 +1182,27 @@ Tři výjimky z oznamovací povinnosti:
 >
 > *- b) tom, že je na seznamu vedeném Evropskou komisí,*
 >
-> *- c) osobách určených k provádění mimosoudního řešení spotřebitelských sporů, (...),*
+> *- c) osobách určených k provádění mimosoudního řešení spotřebitelských sporů, a v případě jejich jmenování též o způsobu jmenování a délce mandátu,*
 >
-> *- d) svém případném členství v síti subjektů (...),*
+> *- d) svém případném členství v síti subjektů mimosoudního řešení spotřebitelských sporů usnadňující řešení přeshraničních sporů,*
 >
 > *- e) sporech, pro jejichž řešení je příslušný,*
 >
-> *- f) procesních pravidlech (...),*
+> *- f) procesních pravidlech mimosoudního řešení spotřebitelských sporů, včetně možnosti stran sporu ukončit v nich účast, a o důvodech, na jejichž základě může odmítnout zabývat se daným sporem,*
 >
-> *- g) jazycích (...),*
+> *- g) jazycích, v nichž může být předložen návrh na zahájení mimosoudního řešení spotřebitelského sporu a ve kterých řešení probíhá,*
 >
 > *- h) pravidlech, která se použijí jako základ pro věcné řešení sporu (například právní předpisy, zásady, kodexy chování),*
 >
-> *- i) požadavcích, které musí strany splnit před zahájením mimosoudního řešení spotřebitelského sporu, (...),*
+> *- i) požadavcích, které musí strany splnit před zahájením mimosoudního řešení spotřebitelského sporu, a o tom, zda strany sporu mohou ukončit svoji účast v řízení,*
 >
-> *- j) nákladech (...),*
+> *- j) nákladech, které mohou vzniknout stranám v souvislosti s mimosoudním řešením spotřebitelského sporu, jež hradí strany, včetně pravidel pro případné hrazení nákladů na konci řešení sporu,*
 >
-> *- k) průměrné délce (...),*
+> *- k) průměrné délce mimosoudního řešení spotřebitelského sporu,*
 >
-> *- l) právním účinku výsledku (...),*
+> *- l) právním účinku výsledku mimosoudního řešení spotřebitelského sporu, včetně případných sankcí za nedodržení rozhodnutí, je-li pro strany závazné,*
 >
-> *- m) případné vykonatelnosti rozhodnutí (...).*
+> *- m) případné vykonatelnosti rozhodnutí vydaného subjektem mimosoudního řešení spotřebitelských sporů.*
 
 **Výklad:**
 
@@ -1198,7 +1216,7 @@ Subjekt ADR musí proaktivně zveřejnit **třináctipoložkový informační ka
 >
 > *Subjekt mimosoudního řešení spotřebitelských sporů*
 >
-> *- a) provozuje aktualizované internetové stránky, které obsahují snadno dostupné informace (...) a které umožňují podání návrhu na zahájení řešení sporu on-line, (...),*
+> *- a) provozuje aktualizované internetové stránky, které obsahují snadno dostupné informace o mimosoudním řešení spotřebitelských sporů a které umožňují podání návrhu na zahájení řešení sporu on-line, a to včetně příslušných dokladů, zveřejní na nich odkaz na internetové stránky Evropské komise týkající se mimosoudního řešení spotřebitelských sporů a pokud možno na trvalém nosiči dat ve svých prostorách poskytuje seznam subjektů mimosoudního řešení spotřebitelských sporů notifikovaných členskými státy Evropské komisi,*
 >
 > *- b) poskytuje stranám sporu na jejich žádost informace uvedené v písmenu a) na trvalém nosiči dat,*
 >
@@ -1206,9 +1224,9 @@ Subjekt ADR musí proaktivně zveřejnit **třináctipoložkový informační ka
 >
 > *- d) řeší vnitrostátní i přeshraniční spory,*
 >
-> *- e) spolupracuje se subjekty mimosoudního řešení spotřebitelských sporů z členských států Evropské unie a zemí tvořících Evropský hospodářský prostor (...),*
+> *- e) spolupracuje se subjekty mimosoudního řešení spotřebitelských sporů z členských států Evropské unie a zemí tvořících Evropský hospodářský prostor, a to zejména při řešení přeshraničních sporů, a podílí se na pravidelné výměně osvědčených postupů týkajících se vnitrostátních i přeshraničních sporů,*
 >
-> *- f) spolupracuje s vnitrostátními orgány dozoru příslušnými pro prosazování právních předpisů na ochranu spotřebitele (...).*
+> *- f) spolupracuje s vnitrostátními orgány dozoru příslušnými pro prosazování právních předpisů na ochranu spotřebitele, zejména v oblasti vzájemné výměny informací o praxi v oblastech podnikání, na kterou si spotřebitelé opakovaně stěžují, a poskytování technických posudků a informací, pokud jsou nezbytné pro řešení jednotlivých sporů a jsou-li již k dispozici.*
 
 **Výklad:**
 
@@ -1222,21 +1240,45 @@ Subjekt ADR musí proaktivně zveřejnit **třináctipoložkový informační ka
 >
 > *(1) Subjekt mimosoudního řešení spotřebitelských sporů oznámí Ministerstvu průmyslu a obchodu:*
 >
-> *- a) název, kontaktní údaje a internetovou adresu, (...) - f) jazyk či jazyky (...).*
+> *- a) název, kontaktní údaje a internetovou adresu,*
+>
+> *- b) údaje o struktuře a financování, včetně údajů o osobách určených k provádění mimosoudního řešení spotřebitelských sporů, o jejich odměňování a funkčním období,*
+>
+> *- c) procesní pravidla, podle kterých bude při řešení spotřebitelského sporu postupováno, včetně důvodů pro odmítnutí návrhu,*
+>
+> *- d) poplatky, jsou-li stanoveny,*
+>
+> *- e) průměrnou délku mimosoudního řešení spotřebitelského sporu,*
+>
+> *- f) jazyk či jazyky, v nichž může být předložen návrh na zahájení a vedeno mimosoudní řešení spotřebitelských sporů.*
 >
 > *(2) Pověřený subjekt oznámí Ministerstvu průmyslu a obchodu kromě údajů uvedených v odstavci 1 též*
 >
 > *- a) druhy sporů, které je oprávněn řešit,*
 >
-> *- b) prohlášení o způsobilosti a splnění požadavků (...).*
+> *- b) prohlášení o způsobilosti a splnění požadavků stanovených tímto zákonem.*
 >
-> *(3) Subjekt mimosoudního řešení spotřebitelských sporů oznámí změny údajů (...) Ministerstvu průmyslu a obchodu bez zbytečného odkladu.*
+> *(3) Subjekt mimosoudního řešení spotřebitelských sporů oznámí změny údajů uvedených v odstavci 1 Ministerstvu průmyslu a obchodu bez zbytečného odkladu.*
 >
 > *(4) Subjekt mimosoudního řešení spotřebitelských sporů oznamuje Ministerstvu průmyslu a obchodu jednou za dva roky informace o*
 >
-> *- a) počtu sporů, které mu byly předloženy, (...) - h) posouzení efektivity mimosoudního řešení spotřebitelských sporů (...).*
+> *- a) počtu sporů, které mu byly předloženy, a druzích podnětů, k nimž se vztahovaly,*
 >
-> *(5) Údaje uvedené v odstavci 4 jsou obsahem výroční zprávy (...).*
+> *- b) procentním podílu mimosoudních řešení spotřebitelských sporů, která byla zastavena nebo odmítnuta, aniž bylo dosaženo řešení, a procentním podílu důvodů zastavení nebo odmítnutí, pokud jsou známy,*
+>
+> *- c) průměrné době potřebné k vyřešení sporu,*
+>
+> *- d) míře dodržování výsledků mimosoudního řešení spotřebitelských sporů, je-li známa,*
+>
+> *- e) systémových nebo závažných problémech, jež se vyskytují často a vedou ke sporům mezi spotřebiteli a prodávajícími,*
+>
+> *- f) případné spolupráci subjektů v rámci sítě subjektů mimosoudního řešení spotřebitelských sporů usnadňující řešení přeshraničních sporů a posouzení efektivnosti této spolupráce, pokud existuje,*
+>
+> *- g) odborné přípravě fyzických osob určených k provádění mimosoudního řešení spotřebitelských sporů,*
+>
+> *- h) posouzení efektivity mimosoudního řešení spotřebitelských sporů a jeho možného zlepšení.*
+>
+> *(5) Údaje uvedené v odstavci 4 jsou obsahem výroční zprávy, kterou subjekt mimosoudního řešení spotřebitelských sporů zveřejňuje na svých internetových stránkách nebo jiným vhodným způsobem nebo na požádání poskytuje na trvalém nosiči dat.*
 
 **Výklad:**
 
