@@ -11,6 +11,10 @@ AI komentář **výhradně z lokálních materiálů**, **bez konkrétních spzn
 ## Vazby
 [OZ 89/2012](/home/vojtech/Komentar-OZ-89-2012/), [ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/), [GDPR](/home/vojtech/Komentar-GDPR-110-2019/).
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z dobového sněmovního tisku, digitální knihovna Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
